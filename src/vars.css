@@ -1,0 +1,13 @@
+/*creating different color and font variables*/
+
+:root {
+    /* Colors */
+    --color-text: #fff;
+    --color-primary: #f89797;
+    --color-secondary: #994343;
+    --color-dark: #a31313;
+    --color-bg: #4b0909;
+
+    /* Fonts */
+    --font-roboto: "Roboto";
+}

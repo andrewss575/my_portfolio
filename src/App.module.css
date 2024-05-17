@@ -1,0 +1,11 @@
+@import "./vars.css"; /*important varibales defined in vars.css*/
+
+.App {
+    /*setting background color for webpage*/
+    background-color: var(--color-bg); /* --color-bg was defined in vars.css file
+
+     /*width and height should be 100% of the page that its on*/
+     width: 100%;
+     height: 100%;
+     overflow: hidden;
+}

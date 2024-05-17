@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Crossy Road Game",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and developed a Crossy Road-style game using the Unreal Engine platform, implementing advanced game mechanics and 3D graphics",
+    "skills": ["C++", "Python", "Unreal"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/andrewss575/CPSC_386_FINAL"
+  },
+  {
+    "title": "Lexical Analyzer",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a lexical analyzer for a compiler, focusing on processing input code to generate a sequence of tokens. ",
+    "skills": ["C++"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/andrewss575/LexicalAnalyzer"
+  },
+  {
+    "title": "Caluclator",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a basic calculator application using assembly language, utilizing low-level programming concepts to optimize performance and memory usage",
+    "skills": ["X86-64 ASM"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/andrewss575/240-Assignments"
+  }
+]
